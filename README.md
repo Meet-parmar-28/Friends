@@ -28,7 +28,7 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/friends-app.git
+    git clone https://github.com/Meet-parmar-28/railsfriend.git
     cd friends-app
     ```
 
